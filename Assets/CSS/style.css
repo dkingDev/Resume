@@ -1,12 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/* ---colors---*/
 .bg-color-name-title {
     background-color: #676767;
 }
+
+/* ---heading---*/
 header {
     margin: 0;
 }
 
+/* ---image/logo---*/
 .logo {
     background: url("../images/Derek.png");
     background-position: center;
@@ -18,6 +22,7 @@ header {
     -webkit-transition: all .5s ease-in-out;
 }
 
+/* ---name---*/
 .name {
     font-family: "Exo", sans-serif;
     font-weight: 100;
@@ -26,6 +31,7 @@ header {
     color: #fff;
 }
 
+/* ---title---*/
 .title {
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
