@@ -25,6 +25,9 @@
 header {
     margin: 0;
 }
+.heading {
+    margin:0;
+}
 
 /* ---image/logo---*/
 .logo {
