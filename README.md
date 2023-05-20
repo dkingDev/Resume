@@ -6,7 +6,7 @@ This is a resume template created using HTML, CSS, and Bootstrap.
 
 ## Preview
 
-![Resume Preview](CVhome.png)
+![Resume Preview](Assets/images/CVhome.png)
 
 ## How to Use
 
