@@ -1,39 +1,35 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome,
+# Resume
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This is a resume template created using HTML, CSS, and Bootstrap.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## Preview
 
-## Codeanywhere Reminders
+![Resume Preview](CVhome.png)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## How to Use
 
-`python3 -m http.server`
+1. Clone this repository to your local machine.
+2. Open `index.html` in your preferred web browser.
+3. Customize the resume content in the HTML file to match your own details and experiences.
+4. Replace the profile image with your own image. Save it as `profile.jpg` and replace the existing file in the `image` directory.
+5. Replace the URL file path in `style.css` under `.logo{}`.
+6. Replace the sample document file with your own document file. Save it as `resume.doc` and replace the existing file in the root directory.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Dependencies
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+This resume template is built using the following dependencies:
 
-`http_server`
+- Bootstrap v4.2.1
+- Font Awesome v4.7.0
+- Cloudflare.com
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Credits
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+This template is based on the [Resume](https://github.com/Code-Institute-Solutions/resume-miniproject-bootstrap4)
+This course work was done via [Code Institute](https://www.codeinstitute.net/)
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## License
 
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
